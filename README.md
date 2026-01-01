@@ -43,13 +43,15 @@ There are five different types of coupons:
 - Total Coupons = 1906 
 - Accepted = 785 
 - Percentage Acceptance = 41.18%
-- Acceptance rate for Drivers visited bar 3 or less time in a month is 37.24% is much less compared to drivers visited >3times per month 76.16%
-- Acceptance rate of drivers visit bar more than once a month and over age 25 is 70.91% compared to age under 25 is 29.08% percentage 
-- Acceptance rate for drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
-is much higher 65.73% compared to acceptance rate with kid passenger percentage: 2.79%
-- Acceptance rate for drivers go to Bar more than once and no kid passenger and were not widowed =70.94%
-- Acceptance rate for drivers go to Bar more than once and under age 30 = 71.95%
-- Acceptance rate for drivers go to cheap restaurants more than 4 times a month and income is less than 50K = 45.64%
+
+#### Acceptance of Bar Coupons under different conditions
+  - Acceptance rate for Drivers visited bar 3 or less time in a month is 37.24% is much less compared to drivers visited >3times per month 76.16%
+  - Acceptance rate of drivers visit bar more than once a month and over age 25 is 70.91% compared to age under 25 is 29.08% percentage 
+  - Acceptance rate for drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
+  is much higher 65.73% compared to acceptance rate with kid passenger percentage: 2.79%
+  - Acceptance rate for drivers go to Bar more than once and no kid passenger and were not widowed =70.94%
+  - Acceptance rate for drivers go to Bar more than once and under age 30 = 71.95%
+  - Acceptance rate for drivers go to cheap restaurants more than 4 times a month and income is less than 50K = 45.64%
 
 ### Hypothesis
 - Drivers visiting more than 3times per month are more likely to accept bar coupons.
