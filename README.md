@@ -30,9 +30,6 @@ There are five different types of coupons:
 ---
 
 ## Summary of Key Findings
-Ensure that your findings are clearly stated in a separate section alongside actionable items and recommendations.
-Your repository should also include a READMe file containing a brief nontechnical report that highlights the differences between customers who did and did not accept the coupons.
-
 
 ## Overall acceptance rate across all coupons
 - Total Observations: 12007
