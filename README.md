@@ -68,19 +68,21 @@ There are five different types of coupons:
 - Accepted Coffee House Coupon: 1888
 - Percentage of Coffee House Coupons Accepted: 49.56%
 
-### Examine acceptance by age group under 30 vs over 30 years
-- Total Coffee House Coupons = 3809
-- Accepted Coffee House Coupons = 1888
-- Accepted Coffee House Coupons Under age 30 = 943
-- Accepted Coffee House Coupons Over age 30 = 945
-- Proportion Accepted Coffee House Coupons Under age 30 Percentage = 49.94%
-- Proportion Accepted Coffee House Coupons Over age 30 Percentage = 50.05%
+### Acceptance of Coffee Coupons under various conditions
 
-### Examining acceptance by group income under 50K vs over 50K
-- Accepted Coffee House Coupons income under 50K = 1066
-- Accepted Coffee House Coupons income over 50k = 822
-- Proportion Accepted Coffee House Coupons Income under 50K Percentage = 56.46%
-- Proportion Accepted Coffee House Coupons Income over 50K Percentage = 43.53%
+  ### Examine acceptance by age group under 30 vs over 30 years
+    - Total Coffee House Coupons = 3809
+    - Accepted Coffee House Coupons = 1888
+    - Accepted Coffee House Coupons Under age 30 = 943
+    - Accepted Coffee House Coupons Over age 30 = 945
+    - Proportion Accepted Coffee House Coupons Under age 30 Percentage = 49.94%
+    - Proportion Accepted Coffee House Coupons Over age 30 Percentage = 50.05%
+
+  ### Examining acceptance by group income under 50K vs over 50K
+    - Accepted Coffee House Coupons income under 50K = 1066
+    - Accepted Coffee House Coupons income over 50k = 822
+    - Proportion Accepted Coffee House Coupons Income under 50K Percentage = 56.46%
+    - Proportion Accepted Coffee House Coupons Income over 50K Percentage = 43.53%
 
 
 ### Hypothesis 
